@@ -1,4 +1,4 @@
-([![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
 
 <h1 align="center">Hi 👋, I'm Parth Nakum</h1>
