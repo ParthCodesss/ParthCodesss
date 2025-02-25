@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Parth Nakum</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=790b7611xt4e7posu42fwzhqs7rzn5i7sev5hgxsot1le8oq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="400"/>
